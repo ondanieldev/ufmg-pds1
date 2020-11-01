@@ -1,0 +1,10 @@
+2 é primo
+3 é primo
+4 não é primo
+5 é primo
+6 não é primo
+7 é primo
+8 não é primo
+9 não é primo
+10 não é primo
+15 não é primo
